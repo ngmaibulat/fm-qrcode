@@ -15,13 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 ### Links
@@ -50,6 +48,9 @@ To see how you can add code snippets, see below:
   not: yet;
 }
 ```
+
+Preview markdown in vscode: (⌘K V)
+
 
 
 ### Continued development
