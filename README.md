@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ngmaibulat/fm-qrcode)
-- Live Site URL: [Add live site URL here](https://fm-qrcode.netlify.app)
+- Solution URL: [on github](https://github.com/ngmaibulat/fm-qrcode)
+- Live Site URL: [on netlify](https://fm-qrcode.netlify.app)
 
 ## My process
 
@@ -61,4 +61,4 @@ Preview markdown in vscode: (⌘K V)
 
 - [Youtube](https://youtube.com) - Youtube is always great!
 - [Netflix](https://netflix.com) - Netflix is cool as well!
-
+- [Netlify](https://netlify) - Netlify is supercool!
